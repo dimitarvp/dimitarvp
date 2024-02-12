@@ -12,8 +12,9 @@
 
 📫 Drop me a line if you want to talk, I am friendly and curious and don't refuse interesting discussions, be it about programming or anything else.
 
-HackerNews profile: https://news.ycombinator.com/user?id=pdimitar
-LinkedIn profile: https://www.linkedin.com/in/dpanayotov/
+Other profiles:
+- HackerNews: https://news.ycombinator.com/user?id=pdimitar
+- LinkedIn: https://www.linkedin.com/in/dpanayotov/
 
 <!--
 **dimitarvp/dimitarvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
